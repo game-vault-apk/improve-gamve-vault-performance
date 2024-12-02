@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://f005.backblazeb2.com/file/gamesvaultapk/index.html/sitemap.xml
