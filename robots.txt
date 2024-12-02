@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: hhttps://game-vault-apk.github.io/improve-gamve-vault-performance/
+Sitemap: https://game-vault-apk.github.io/improve-gamve-vault-performance/sitemap.xml
